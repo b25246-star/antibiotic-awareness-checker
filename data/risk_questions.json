@@ -1,0 +1,44 @@
+[
+  {
+    "id": "q1",
+    "question": "Did you take antibiotics without a doctor's prescription?",
+    "options": ["Yes", "No"],
+    "weight": {"Yes": 3, "No": 0},
+    "flag": "Self-medication without prescription"
+  },
+  {
+    "id": "q2",
+    "question": "Did you stop taking the antibiotics early once you felt better?",
+    "options": ["Yes", "No"],
+    "weight": {"Yes": 3, "No": 0},
+    "flag": "Incomplete antibiotic course"
+  },
+  {
+    "id": "q3",
+    "question": "Have you used leftover antibiotics from a previous illness?",
+    "options": ["Yes", "No"],
+    "weight": {"Yes": 2, "No": 0},
+    "flag": "Reusing leftover antibiotics"
+  },
+  {
+    "id": "q4",
+    "question": "Did you take antibiotics for a cold, flu, or sore throat without confirming it was a bacterial infection?",
+    "options": ["Yes", "No"],
+    "weight": {"Yes": 3, "No": 0},
+    "flag": "Antibiotics used for likely viral illness"
+  },
+  {
+    "id": "q5",
+    "question": "Have you shared your antibiotics with a family member or friend?",
+    "options": ["Yes", "No"],
+    "weight": {"Yes": 2, "No": 0},
+    "flag": "Sharing prescription medication"
+  },
+  {
+    "id": "q6",
+    "question": "Do you know why your doctor prescribed this specific antibiotic?",
+    "options": ["Yes", "No"],
+    "weight": {"Yes": 0, "No": 1},
+    "flag": "Limited understanding of prescribed treatment"
+  }
+]

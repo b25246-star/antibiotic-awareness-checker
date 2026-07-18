@@ -1,0 +1,22 @@
+[
+  {
+    "myth": "Antibiotics can cure colds and flu.",
+    "fact": "Colds and flu are caused by viruses. Antibiotics only work against bacteria and have no effect on viral infections."
+  },
+  {
+    "myth": "If I feel better, I can stop taking my antibiotics.",
+    "fact": "Stopping early can leave surviving bacteria that are more resistant, making future infections harder to treat."
+  },
+  {
+    "myth": "Leftover antibiotics from last time are fine to reuse.",
+    "fact": "Leftover antibiotics may be the wrong type, wrong dose, or expired, and reusing them contributes to resistance."
+  },
+  {
+    "myth": "Stronger antibiotics are always safer and more effective.",
+    "fact": "Using stronger antibiotics unnecessarily increases resistance risk and can have more side effects than needed."
+  },
+  {
+    "myth": "Antibiotic resistance only affects the person who misuses them.",
+    "fact": "Resistant bacteria can spread to other people, making resistance a community and public health issue, not just personal."
+  }
+]
